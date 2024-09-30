@@ -141,7 +141,7 @@ nav a:hover, nav a:focus {
 first div in the grid  and place it in the grid. */
 .container div:first-child {
   grid-column: 1 / -1; 
-  background: url("/images/header.jpg");
+  background: url("../images/header.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
